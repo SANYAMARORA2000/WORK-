@@ -1,0 +1,43 @@
+.input-style
+{
+    padding: 14px;
+    border: 1px solid black;
+}
+.check-in
+{    background-color: pink;
+
+}
+.searchw
+{
+    padding: 12px;
+    border: 1px solid black;
+    margin-left: 18px;
+}
+.check-in
+{
+    background-color: pink;
+    padding: 12px;
+    border: 1px solid black;
+    margin-left: 9px;
+    border-radius: 17px;
+}
+.head
+{
+    border: 1px solid black;
+    margin-top: 18px;
+}
+.heading-table
+{
+    padding: 9px;
+    border: 1px solid black;
+    border-radius: 18px;
+}
+.sign-out
+{
+    margin-left: 50vw;
+    background-color: pink;
+    padding: 12px;
+    border: 1px solid black;
+    
+    border-radius: 17px;
+}
